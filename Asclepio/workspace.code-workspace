@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "KRATOS",
+			"path": "..\\KRATOS"
+		},
+		{
+			"name": "Asclepio",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
